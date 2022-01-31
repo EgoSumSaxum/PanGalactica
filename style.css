@@ -1,0 +1,44 @@
+body {
+    font-family: 'Electrolize';
+	background-image: url("galaxy.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100%;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Atomic Age';
+}
+
+p {
+	font-family: 'Electrolize';
+}
+
+.mainTitle {
+	background-color: #19334d;
+	padding: 10px;
+	text-align: center;
+	color: #b3b300;
+}
+
+.inline {
+	display: inline-block;
+	padding: 5px;
+	margin: 2px;
+}
+
+.navItem {
+	background-color: #b3b300;
+	color: #19334d;
+}
+
+#title {
+	font-size: 70px;
+}
+
+p {
+	background-color: #19334d;
+	padding: 2%;
+	color: #b3b300;
+}
