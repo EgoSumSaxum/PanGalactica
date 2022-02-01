@@ -37,8 +37,11 @@ p {
 	font-size: 70px;
 }
 
-p {
+.block {
 	background-color: #19334d;
 	padding: 2%;
 	color: #b3b300;
+	padding: 5 px;
+	margin-top: 10px;
 }
+	
